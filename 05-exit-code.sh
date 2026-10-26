@@ -27,4 +27,5 @@ else
 fi
 
 # At the end, exit the script with code 0 if all commands succeeded, or 1 if any failed
-echo "Exiting script with code $?"
+echo "Exiting script with code $status"
+exit $status
