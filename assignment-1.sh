@@ -8,7 +8,7 @@
 #Prints the name of the user running the script
 #Prints the directory the script is running from
 
-echo "Hello, world!"
+echo "Hello, World!"
 echo "current date and time: $(date)"
 echo "user running the script: $(whoami)"
 echo "directory the script is running from: $(pwd)"
