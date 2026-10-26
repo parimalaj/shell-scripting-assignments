@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 #Write a script 04-special-vars.sh that demonstrates all special variables:
 
